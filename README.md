@@ -2,6 +2,7 @@
 ### 🔭 I’m currently working on MilkBot
 ### 🌱 I’m currently learning JavaScript & Java
 ### 🤔 I’m working with @ChloeXX-AUS
+### ⚡ More about me: I'm a small dev that makes Discord bot and websites. I also love to spend my time with my firends & family. I'm a 14 year old Australian. My priority is working on MilkBot
 ### 💬 Websites https://milkbot.gq/ & https://milkdevelopment.cf/
 ### 📫 How to reach me: DM me on discord @liām#7708
 <!--
