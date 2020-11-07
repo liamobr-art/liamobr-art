@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on MilkBot
+### 🌱 I’m currently learning JavaScript & Java
+### 📫 How to reach me: DM me on discord @liām#7708
 <!--
 **liamobr-art/liamobr-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
