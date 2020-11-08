@@ -7,7 +7,7 @@
 ### 📫 How to reach me: DM me on discord @liām#7708
 ### [![achievement](https://minecraftskinstealer.com/achievement/31/Achievement+Get%21/Small+dev)](https://minecraftskinstealer.com/achievement) [![achievement](https://minecraftskinstealer.com/achievement/2/Achievement+Get%21/+Learn+JavaScript)](https://minecraftskinstealer.com/achievement)
 ### [![achievement](https://minecraftskinstealer.com/achievement/34/Achievement+Get%21/Bot+in+15+Servers)](https://minecraftskinstealer.com/achievement) [![achievement](https://minecraftskinstealer.com/achievement/13/Achievement+Get%21/Learn+Java)](https://minecraftskinstealer.com/achievement)
-### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamobr-art&show_icons=true&theme=radical)
+### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamobr-art&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamobr-art)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **liamobr-art/liamobr-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
