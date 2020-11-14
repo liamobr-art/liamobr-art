@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on MilkBot
+### 🔭 I’m currently working on MilkBot & Sam𝔦
 ### 🌱 I’m currently learning JavaScript & Java
 ### 🤔 I’m working with @ChloeXX-AUS
 ### ⚡ More about me: I'm a 15 year old small Australian dev that makes Discord bot and websites. I also love to spend my time with my friends & family. My priority is working on MilkBot With @ChloeXX-AUS that is is 20 servers as of me making this.
