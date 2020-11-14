@@ -9,5 +9,5 @@
 ### [![achievement](https://minecraftskinstealer.com/achievement/34/Achievement+Get%21/Bot+in+20+Servers)](https://minecraftskinstealer.com/achievement) [![achievement](https://minecraftskinstealer.com/achievement/13/Achievement+Get%21/Learn+Java)](https://minecraftskinstealer.com/achievement)
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamobr-art&show_icons=true&theme=tokyonight) 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamobr-art&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### [![Discord](https://img.shields.io/discord/754965974167453737.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/)
+### [![Discord](https://img.shields.io/discord/754965974167453737.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.ggWuq9qbr/)
 ### bye now
