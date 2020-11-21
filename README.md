@@ -10,4 +10,4 @@
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamobr-art&show_icons=true&theme=tokyonight) 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamobr-art&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### [![Discord](https://img.shields.io/discord/754965974167453737.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.ggWuq9qbr/)
-### bye now
+### bye now <a href="https://emoji.gg/emoji/2359_cringepepepet"><img src="https://emoji.gg/assets/emoji/2359_cringepepepet.gif" width="64px" height="64px" alt="cringepepepet"></a>
