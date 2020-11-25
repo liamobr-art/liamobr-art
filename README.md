@@ -6,6 +6,6 @@
 ### 💬 Websites https://milkbot.gq/ & https://milkdevelopment.cf/
 ### 📫 How to reach me: DM me on discord @liām#7708 [![Discord](https://img.shields.io/discord/754965974167453737.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.ggWuq9qbr/)
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liamobr-art&show_icons=true&theme=tokyonight) 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamobr-art&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamobr-art&langs_count=8)](https://github.com/i/github-readme-stats)
 ### <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
