@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Milk Bot a discord bot & Lindoge a Linux OS
+### 🔭 I’m currently working on Milk a discord bot & Lindoge a Linux OS
 
 
 
